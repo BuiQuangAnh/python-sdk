@@ -12,7 +12,14 @@ from ibm_watson.compare_comply_v1 import TableReturn
 class IntegrationTestCompareComplyV1(TestCase):
     compare_comply = None
 
-    @classmethod
+    @method#
+    dh
+    
+    
+    
+    
+    
+    c##
     def setup_class(cls):
         cls.compare_comply = ibm_watson.CompareComplyV1('2018-10-15')
         cls.compare_comply.set_default_headers({
